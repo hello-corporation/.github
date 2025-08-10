@@ -1,118 +1,67 @@
-# Hello World! © ® ™
+# Hello World!©®™
 
-This is the true story of The Hello Corporation,
-an organization where all the software is Hello World.
+Welcome to The Hello Corporation, an organization
+where all the software is Hello World.
 
 Many other Enterprises in the software space think
 we have it easy over here at The Hello Corporation,
 because all our software is trivial.
 
-Nothing could be further from the truth. We find that
-software development at The Hello Corporation is just
-as complex and difficult as at other enterprises.
+Outsiders seem to think we're a bunch of slackers who
+sit around doing nothing and getting high all the time,
+which is absolutely untrue, although admittely our
+name does spell THC©®™.
 
-This is not a joke. We're not making things complex
-on purpose to make fun of over-engineered software,
-like the classic "Fizzbuzz Enterprise Edition" repo.
+In reality, we find that software development at
+The Hello Corporation is just as complex and difficult
+as it is at other enterprises.
 
-Nor are we a bunch of slackers who just get high all
-the time, despite the fact that our name is THC©®™.
+This is not a joke.
 
-We founded The Hello Corporation to help your company.
+We're not making things complex on purpose to make
+fun of over-engineered software, like the classic
+"Fizzbuzz Enterprise Edition" repo, though that one
+was pretty good.
 
-If you work in technology, whether as a developer or
-a manager or an executive, there are probably a lot of
-things you and your team do that you believe are
-"best practices." Many of them probably are. But how
-would you know if some of those practices had been
-implemented in subtly incorrect ways that made them
-useless, or even actively harmful? How would you know
-if some simple requirement you'd imposed on your team
-in the hope of a 5-10% benefit on some metric or other
-was was causing every project you worked on to take
-twice as long?
+We're absolutely serious.
 
-How is a manager or executive at a technology company
-supposed to understand which of the many things their
-business does are imposing excessive costs for zero
-benefit?
+And recently, the developers at Hello Corporation
+have been finding that it's taking them longer and
+longer to get anything done, despite extensive efforts
+we've put into documention.
 
-We founded The Hello Corporation to help your company
-answer those questions, by offering a standard environment
-in which any organization can carry out a complexity audit.
+If you're reading this, you've been selected for an
+interview based on your expertise and obvious charm.
 
-An "audit" is an official inspection of some aspect of
-an individual or organization by an independent body.
+The interview process will consist of one challenge.
 
-An audit is something you do when you want an outside
-expert's opinion on whether you're screwing something up.
+We call it:
 
-Every field has its own form of audit.
+_The Scalable Hello World Challenge!_
 
-- For security, we have static analysis and pentesting.
-- For finances, we have accountants, and, well, audits.
-- For complexity, we have nothing.
+Based on your background, you clearly know a thing or
+two about software development.
 
-Complexity is the ultimate enemy in software development.
-- Not bugs.
-- Not vulnerabilities.
-- Not slow execution.
+So we want you to help us simplify things around here,
+so our developers can spend less time doing things
+manually, and more time writing quality Hello Worlds
+at higher levels.
 
-The eternal enemy your dev team faces every hour of
-every day at work is complexity.
+Oh, right, I haven't explained levels.
 
-Looking around at most tech companies and dev teams,
-it's hard not to conclude that complexity won.
+For more details, see the subdirectories in this
+repository called `level-1`,`level-2`, and `level-3`
+to get a better idea of the sort of problems we're
+dealing with.
 
-Who do you call when you need to simplify things?
-When you're having trouble onboarding new employees
-because everything is chaotic, even after all those
-efforts you made to document this or standardize that?
+Let us know when you've got a working POC of how to
+help us scale.
 
-We believe a standardized concept of complexity auditing
-is an essential service that every technology company
-could benefit from, but which is entirely absent from
-the industry at present.
+And remember, you don't have write access to our repos,
+and we're not looking for PRs that add files to our
+existing projects. The Hello World industry is all
+about simplicity, so whatever system you build, make
+sure to use our projects without changing them.
 
-That what we do, here at The Hello Corporation.
-
-We help technology companies audit every aspect
-of their stack, including:
-
-- onboarding
-- development
-  - within project
-    - documentation
-    - testing
-    - version control
-    - dev environments
-    - ci/cd pipelines
-  - between project
-    - code-reuse
-    - packaging
-    - dependency management
-    - vcs collaboration models
-- security
-  - authentication (iam, sso)
-  - vulnerability management
-
-and anything else that the developers on your team come
-into contact with on a daily basis.
-
-How can we audit all those things?
-
-By asking how your team's processes for handling each item
-above would scale if all the complexity of your real
-software was removed.
-
-Because as we say here at The Hello Corporation:
-
-> If your current processes make it difficult to scale hello world,
-> you may want to rethink your business model.
-
-The Github Enterprise is now live at:
-  - https://github.com/enterprises/hello-corporation
-
-Welcome to The Hello Corporation.©®™
-
-Run `./mkcorp` to get started.
+Sincerely,
+-The Hello Corporation©®™
